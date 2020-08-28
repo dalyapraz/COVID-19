@@ -1,6 +1,6 @@
 # COVID-19
 
-Prediciton model using for COVID-19 cases in California\
+Prediciton model using for COVID-19 cases in California
 
 
 Dashboard on cases of COVID19 in the world, US and California\
