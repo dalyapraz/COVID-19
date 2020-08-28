@@ -2,6 +2,7 @@
 
 Prediciton model using for COVID-19 cases in California\
 
+
 Dashboard on cases of COVID19 in the world, US and California\
 https://bit.ly/COVID-19_by_Dalya 
 
